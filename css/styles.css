@@ -19,7 +19,7 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+  font-size: 2.825rem;
   color: #66BFBF;
   margin-top: 0;
   margin-bottom: 0;
@@ -81,16 +81,21 @@ hr {
   position: relative;
   right: -25%;
   top: 50px;
+  height: auto;
+  width: auto;
 }
 
 .bottom-c {
   position: relative;
   bottom: 50%;
   left: -30%;
+  height: auto;
+  width: auto;
 }
 
 .mount {
-  /* padding-top: 80px; */
+  width: 45%;
+  height: auto;
 }
 
 .mount1 {
